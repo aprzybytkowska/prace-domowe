@@ -1,0 +1,6 @@
+c:\users\ag\documents\visual studio 2015\Projects\algorytmy\bin\Debug\algorytmy.exe.config
+c:\users\ag\documents\visual studio 2015\Projects\algorytmy\bin\Debug\algorytmy.exe
+c:\users\ag\documents\visual studio 2015\Projects\algorytmy\bin\Debug\algorytmy.pdb
+c:\users\ag\documents\visual studio 2015\Projects\algorytmy\obj\Debug\algorytmy.csprojResolveAssemblyReference.cache
+c:\users\ag\documents\visual studio 2015\Projects\algorytmy\obj\Debug\algorytmy.exe
+c:\users\ag\documents\visual studio 2015\Projects\algorytmy\obj\Debug\algorytmy.pdb
