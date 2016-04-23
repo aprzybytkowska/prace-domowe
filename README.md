@@ -1,3 +1,0 @@
-# prace-domowe
-
-coś
